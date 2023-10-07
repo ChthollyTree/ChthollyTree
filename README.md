@@ -3,7 +3,10 @@
 
 
 
-<img src=".\img\Profile Pictures_18.png" style="zoom: 5%;"  style="zoom: 5%;" />
+<div style="text-align:center">
+    <img src=".\img\Profile Pictures_18.png" style="zoom: 5%;" />
+</div>
+
 
 
 
@@ -32,6 +35,6 @@
 
 
 
-### 导航：
+## 导航：
 
 ...
