@@ -3,10 +3,11 @@
 
 
 
-<div style="text-align:center">
-    <img src=".\img\Profile Pictures_18.png" style="width: 175px;" />
-</div>
 
+
+<div style="display: flex; justify-content: center;">
+  <img src=".\img\Profile Pictures_18.png" style="max-width: 175px;" />
+</div>
 
 
 
