@@ -7,6 +7,7 @@
     <img src=".\img\Profile Pictures_18.png" style="width: 175px;" />
 </div>
 
+---
 
 >
 > #### 这是一个什么样的小组？
