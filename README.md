@@ -3,9 +3,10 @@
 
 
 
-<div style="text-align:center">
-    <img src=".\img\Profile Pictures_18.png" style="zoom: 5%;" />
-</div>
+<p align="center">
+  <img src=".\img\Profile Pictures_18.png" alt="Image" />
+</p>
+
 
 
 
