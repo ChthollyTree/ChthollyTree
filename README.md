@@ -3,9 +3,10 @@
 
 
 
-<p align="center">
-  <img src=".\img\Profile Pictures_18.png" alt="Image" />
-</p>
+<div style="text-align:center">
+    <img src=".\img\Profile Pictures_18.png" style="width: 175px;" />
+</div>
+
 
 
 
@@ -36,6 +37,6 @@
 
 
 
-## 导航：
+### 导航：
 
 ...
